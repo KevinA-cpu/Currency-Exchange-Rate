@@ -1,5 +1,5 @@
-# Currency-Transfer-Rate
-A program created using Socket to get information about the transfer rate of multiple currencies from an API and deliver it to end-users
+# Currency-Exchange-Rate
+A program created using Socket to get information about the exchange rate of multiple currencies from an API and deliver it to end-users
 This project was created for the subject Networking by HCMUS students.
 
 A few explanations if you want to use/referencing this script:
